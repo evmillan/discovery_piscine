@@ -1,0 +1,95 @@
+   66  cd..
+   67  cd ..
+   68  cd module1
+   69  cd ex00
+   70  ls
+   71  /usr/bin/python3 /home/emmillan/discovery_piscine/module1/ex00/name.py
+   72  /usr/bin/python3 /home/emmillan/discovery_piscine/module1/ex01/name.py
+   73  /usr/bin/python3 /home/emmillan/discovery_piscine/module1/ex02/age.py
+   74  /usr/bin/python3 /home/emmillan/discovery_piscine/module1/ex03/whatsyourname.py
+   75  /usr/bin/python3 /home/emmillan/discovery_piscine/module2/ex00/iszero.py
+   76  history -a
+   77  dir
+   78  cd discovery_piscine
+   79  history -w ~/history.txt
+   80  man history
+   81  history > ~/history.txt
+   82  export PROMPT_COMMAND='history -a'
+   83  ls
+   84  cd ex00
+   85  ls
+   86  chmod +x iszero.py
+   87  ./iszero.py
+   88  cd ..
+   89  export PROMPT_COMMAND='history -a;history -c;history -r'
+   90  history > ~/discovery_piscine/bash_history.txt
+   92  mkdir ex01
+   93  cd ex01
+   94  touch isneg.py
+   95  pico isneg.py
+   96  nano isneg.py
+   97  chmod +x isneg.py
+   98  ./isneg.py
+   99  cd ..
+  100  ls
+  101  mkdir ex02
+  102  cd ex02
+  103  touch password.py
+  104  nano password.py
+  106  chmod +x password.py
+  107  ./password.py
+  108  history
+  110  export PROMPT_COMMAND='history -a;history -c;history -r'\n
+  112  cd..
+  113  cd ..
+  115  mkdir ex03
+  116  cd ex03
+  117  touch mutl.py
+  119* /usr/bin/python3 /home/emmillan/discovery_piscine/module2/ex03/mutl.py
+  121  ls
+  124  nano mult.py
+  125  chmod +x mult.py
+  126  ./mult.py
+  127  history
+  129  cd  ..
+  130  ls
+  131  mkdir module3
+  132  cd module3
+  133  mkdir ex00
+  134  cd ex00
+  135  touch to25.py
+  136  export PROMPT_COMMAND='history -a;history -c;history -r'
+  189  mkdir ex01
+  191  touch age.py
+  193  cd module3
+  195  cd ex00
+  198* /usr/bin/python3 /home/emmillan/discovery_piscine/module3/ex00/to25.py
+  199  ./to25.py
+  201  cd ex001
+  202  cd ex01
+  204  ./multiplication_table.py
+  206  cd ex02
+  208  ./i_got_that.py
+  209  cd ..
+  210  cd ex03
+  211  ls
+  212  ./advanced_mult.py
+  213* /usr/bin/python3 /home/emmillan/discovery_piscine/module4/ex01/age.py
+  244  touch round_up.py
+  245* /bin/python3 /home/emmillan/discovery_piscine/module4/ex04/round_up.py
+  246  nano round_up.py
+  247  chmod +x round_up.py
+  248  ./round_up.py
+  250  mkdir ex05
+  251  cd ex05
+  252  touch up_low.py
+  253* /bin/python3 /home/emmillan/discovery_piscine/module4/ex05/up_low.py
+  254  nano up_low.py
+  255  chmod +x up_low.py
+  256  ./up_low.py
+  259  cd ..
+  260  ls
+  262  clear
+  263  history
+  264  history > ~/discovery_piscine/bash_history.txt
+  265  export PROMPT_COMMAND='history -a;history -c;history -r'

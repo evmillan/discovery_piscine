@@ -1,0 +1,14 @@
+Mod01. Ex02
+https://realpython.com/run-python-scripts/
+https://docs.python.org/es/dev/faq/windows.html
+https://fastapi.tiangolo.com/es/environment-variables/
+https://juncotic.com/variables-de-entorno-python/
+https://www.datacamp.com/es/tutorial/python-environment-variables
+https://docs.python.org/es/3/tutorial/inputoutput.html
+https://j2logo.com/python/tutorial/variables-python/
+https://www.w3schools.com/python/ref_func_input.asp
+https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
+
+https://stackoverflow.com/questions/20297707/how-to-extract-all-command-history-in-one-file-linux
+https://askubuntu.com/questions/261407/how-to-save-terminal-history-manually
+https://superuser.com/questions/555310/bash-save-history-without-exit

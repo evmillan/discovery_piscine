@@ -1,0 +1,16 @@
+  244  touch round_up.py
+  245* /bin/python3 /home/emmillan/discovery_piscine/module4/ex04/round_up.py
+  246  nano round_up.py
+  247  chmod +x round_up.py
+  248  ./round_up.py
+  250  mkdir ex05
+  251  cd ex05
+  252  touch up_low.py
+  253* /bin/python3 /home/emmillan/discovery_piscine/module4/ex05/up_low.py
+  254  nano up_low.py
+  255  chmod +x up_low.py
+  256  ./up_low.py
+  259  cd ..
+  260  ls
+  262  clear
+  263  history
