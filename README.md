@@ -1,2 +1,2 @@
-# discovery_piscine
-42 Madrid Discovery Piscine
+# 42 Madrid
+## Discovery Piscine
