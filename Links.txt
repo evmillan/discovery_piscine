@@ -12,3 +12,5 @@ https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
 https://stackoverflow.com/questions/20297707/how-to-extract-all-command-history-in-one-file-linux
 https://askubuntu.com/questions/261407/how-to-save-terminal-history-manually
 https://superuser.com/questions/555310/bash-save-history-without-exit
+
+https://www.geeksforgeeks.org/python/how-to-use-sys-argv-in-python/

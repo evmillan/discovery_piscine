@@ -1,16 +1,19 @@
-  244  touch round_up.py
-  245* /bin/python3 /home/emmillan/discovery_piscine/module4/ex04/round_up.py
-  246  nano round_up.py
-  247  chmod +x round_up.py
-  248  ./round_up.py
-  250  mkdir ex05
-  251  cd ex05
-  252  touch up_low.py
-  253* /bin/python3 /home/emmillan/discovery_piscine/module4/ex05/up_low.py
-  254  nano up_low.py
-  255  chmod +x up_low.py
-  256  ./up_low.py
-  259  cd ..
-  260  ls
-  262  clear
-  263  history
+touch count_it.py
+ls
+cd ex01/
+mkdir ex01
+mkdir ex00
+cd module7/
+cd ..
+./parameter_matching.py "Hola" | cat -e
+./parameter_matching.py Hola wue | cat -e
+./parameter_matching.py Hola | cat -e
+./parameter_matching.py | cat -e
+./parameter_matching.py
+chmod +x parameter_matching.py
+cat parameter_matching.py
+history ?
+history
+touch parameter_matching.py
+mkdir module7
+cd ../
